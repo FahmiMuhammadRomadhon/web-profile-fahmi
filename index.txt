@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Fahmi Muhammad Romadhon
+Fahmi Muhammad Romadhon
 Web developer
 
 Show Contacts
